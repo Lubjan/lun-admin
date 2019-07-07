@@ -1,0 +1,18 @@
+{
+    "name": "lun-admin",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "fivem-js": "^1.3.0",
+        "webpack": "^4.35.0",
+        "@types/node": "^12.0.10",
+        "@citizenfx/client": "^1.0.1383-1"
+    },
+    "devDependencies": {
+        "ts-loader": "^6.0.4",
+        "typescript": "^3.3.3333"
+    }
+}
